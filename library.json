@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "year": "1997",
+        "genre": "Fantasy"
+    },
+    {
+        "title": "Harry Potter",
+        "author": "J. K. Rowling",
+        "year": "2007",
+        "genre": "Fantasy fiction, English"
+    },
+    {
+        "title": "Benazir, a Profile",
+        "author": "M. G. Chitkara",
+        "year": "1996",
+        "genre": "Biography & Autobiography"
+    },
+    {
+        "title": "A Journey through the Jeevitha Nauka",
+        "author": "Haridasan T.M.",
+        "year": "2017",
+        "genre": "Biography & Autobiography"
+    },
+    {
+        "title": "Land of Lisp",
+        "author": "Conrad Barski",
+        "year": "2010",
+        "genre": "Computers"
+    },
+    {
+        "title": "Harry Blount",
+        "author": "Philip Gilbert Hamerton",
+        "year": "1875",
+        "genre": "Boys"
+    }
+]
